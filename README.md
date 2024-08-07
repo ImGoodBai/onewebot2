@@ -2,22 +2,35 @@
 
 > 基于https://github.com/zhayujie/chatgpt-on-wechat二次开发。
 
-最新版本支持的功能如下：
+支持的功能如下：
 
 -  ✅   **coze API支持：** 主要增加了图形化界面方便配置coze botid和token；
--  ✅   **一键运行：** 已支持一键打包为exe文件，下载后可直接使用，无需再配置python运行环境。
+-  ✅   **一键运行：** 已支持一键打包为exe文件，下载后可直接使用，无需再配置python运行环境;
+-  ✅   **只支持windows：** 只在windows11上测试过没问题。
 
-# 一键包下载和使用
-1. 第一步：进入release或者直接点下面地址下载一键包
+# 四步开启coze+微信机器人聊天
+### 第一步：
+进入release或者直接点下面地址下载一键包:
 https://github.com/ImGoodBai/onewebot2/releases/download/01/baihuaAgent-onewebot2.zip
-2. 第二步：解压zip包后，双击运行app-ui.exe
-![](res/111.png)
-3. 第三步：在输入框中填入coze平台的botid和token后，点击运行；
-![](res/222.png)
-4. 第四步：使用微信（有封号风险，建议小号测试）扫描登陆，此时手机微信顶部会显示 *Web微信已登录* 字样
-![](res/333.png)
-5. 现在即可开始于该微信对话来体验AI聊天了。
-![](res/555.png)
+### 第二步：
+解压zip包后，双击运行app-ui.exe
+
+<img src="res/111.png" width="500"> 
+
+### 第三步：
+在输入框中填入coze平台的botid和token后，点击运行；（需提前在coze.cn注册并配置后bot获取id和token）
+
+<img src="res/222.png" width="500">
+
+### 第四步：
+用微信（有封号风险，建议小号测试）扫描登陆，此时手机微信顶部会显示 *Web微信已登录* 字样
+
+<img src="res/333.png" width="500"> 
+
+### 现在
+如果看到类似下面信息，说明配置完成，开始微信对话体验AI聊天吧。
+
+<img src="res/555.png" width="500">
 
 ## 声明
 
