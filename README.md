@@ -26,7 +26,7 @@ https://github.com/ImGoodBai/onewebot2/releases/download/02/onewebot2.zip
 ### 第四步：
 用微信（有封号风险，建议小号测试）扫描登陆，此时手机微信顶部会显示 *Web微信已登录* 字样
 
-<img src="res/3333.png" width="500"> 
+<img src="res/333.png" width="500"> 
 
 ### 现在
 如果看到类似下面信息，说明配置完成，开始微信对话体验AI聊天吧。
