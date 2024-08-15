@@ -2,7 +2,7 @@
 # 简介
 
 > 基于 https://github.com/hanfangyuan4396/dify-on-wechat  二次打包，想要获得原始的体验请访问原项目。。
-
+**（有封号风险，建议小号测试）**
 增加功能如下：
 
 -  ✅   **coze API支持：** 主要增加了图形化界面方便配置coze botid和token；
