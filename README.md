@@ -12,7 +12,7 @@
 # 四步开启coze+微信机器人聊天
 ### 第一步：
 进入release或者直接点下面地址下载一键包:
-https://github.com/ImGoodBai/onewebot2/releases/download/01/baihuaAgent-onewebot2.zip
+https://github.com/ImGoodBai/onewebot2/releases/download/02/onewebot2.zip
 ### 第二步：
 解压zip包后，双击运行app-ui.exe
 
