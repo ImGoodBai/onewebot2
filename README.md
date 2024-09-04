@@ -45,6 +45,6 @@ https://github.com/ImGoodBai/onewebot2/releases/download/02/onewebot2.zip
 
 ## 关注我了解更多搞钱项目
 
-<img src="res/qr-baihagent.png" width="300"> 
+<img src="res/qr-白话AGI-视频号-二维码.JPG" width="300"> 
 
 
