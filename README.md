@@ -43,3 +43,8 @@ https://github.com/ImGoodBai/onewebot2/releases/download/02/onewebot2.zip
 3. 本项目主要接入协同办公平台，推荐使用公众号、企微自建应用、钉钉、飞书等接入通道，其他通道为历史产物已不维护
 4. 任何个人、团队和企业，无论以何种方式使用该项目、对何对象提供服务，所产生的一切后果，本项目均不承担任何责任
 
+## 关注我了解更多搞钱项目
+
+<img src="res/qr-baihagent.png" width="300"> 
+
+
