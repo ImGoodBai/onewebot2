@@ -1,6 +1,9 @@
 <font color="red">
 ✅ 该项目已停止维护，使用微信机器人请关注我的新项目（技术更合规，使用更简单）：https://github.com/ImGoodBai/GoodWeBot ✅ </font>
 
+<p style="color:red;">这是红色的文字</p>
+
+
 # 简介
 
 > 基于 https://github.com/hanfangyuan4396/dify-on-wechat  二次打包，想要获得原始的体验请访问原项目。。
